@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sravani629
-- 👀 I’m interested in ...Software job
+- 👀 I’m interested in ...Software Development
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate as a ...Team member on project
 - 📫 How to reach me ...feel free
